@@ -4,7 +4,7 @@ Relevants snippets code from Lean experience coding
 
 #### Chapter 1 (examples)
 
-[Reference file] (/chapter-1/server.ts)
+[Reference file](/chapter-1/server.ts)
 
 <details>
   <summary>Simple server</summary>
