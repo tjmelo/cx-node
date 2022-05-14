@@ -1,10 +1,8 @@
 # Learn Experience Node.js
 
-Relevants snippets code from Lean experience coding
+Some relevant explanations about code snippets from learn experience coding. Enjoy!
 
 #### Chapter 1 (examples)
-
-[Reference file](/chapter-1/server.ts)
 
 <details>
   <summary>Simple server</summary>
@@ -21,5 +19,6 @@ Relevants snippets code from Lean experience coding
         //Instance create server
         http.createServer(server).listen(1337)
 ```
+  :link: [Reference file](/chapter-1/server.ts)
   
 </details>
