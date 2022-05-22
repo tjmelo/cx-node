@@ -2,7 +2,7 @@
 
 Some relevant explanations about code snippets from learn experience coding. Enjoy!
 
-#### Chapter 1 (examples)
+#### Lesson 1 (examples)
 
 <details>
   <summary>Simple server</summary>
